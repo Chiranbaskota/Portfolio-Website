@@ -33,6 +33,7 @@ const Projects: React.FC = () => {
       image:
         "https://i.postimg.cc/65BdYH05/pneumonia-image.avif",
       technologies: ["Python", "TensorFlow", "Keras", "Google Colab", "U-Net", "ResNet50", "MobileNetV2"],
+      githubUrl: "https://github.com/Chiranbaskota/BackendForML",
       icon: <Cpu className="w-6 h-6" />,
     },
   ];
