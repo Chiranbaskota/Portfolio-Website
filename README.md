@@ -2,7 +2,7 @@
 
 This is my personal portfolio website built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. It showcases my skills, projects, and ways to connect with me professionally.
 
-🔗 **Live Site:** [https://chiranbaskota.github.io/Portfolio-Website/](https://chiranbaskota.github.io/Portfolio-Website/)
+🔗 **Live Site:** [https://chiranjivibaskota.com.np/](https://chiranjivibaskota.com.np/)
 
 ---
 
